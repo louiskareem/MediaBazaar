@@ -1,10 +1,10 @@
 <?php
 // DATABASE
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'studmysql01.fhict.local');
-define('DB_NAME', 'dbi437493');
-define('DB_USER', 'dbi437493');
-define('DB_PASS', 'dbgroup01');
+define('DB_HOST', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8');
 //URL (PROJECT PATH)
 define('URL_PUBLIC_FOLDER', 'public');
