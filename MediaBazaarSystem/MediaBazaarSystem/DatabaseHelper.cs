@@ -15,7 +15,7 @@ namespace MediaBazaarSystem
 {
     public class DatabaseHelper
     {
-        private String connString = @"Server = studmysql01.fhict.local; Uid = dbi437493; Database = dbi437493; Pwd = dbgroup01;";
+        private String connString = @"Server = ; Uid = ; Database = ; Pwd = ;";
 
         /**
          * Method to log user in
