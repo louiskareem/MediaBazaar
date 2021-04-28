@@ -70,8 +70,8 @@
 	 */
 	function getWeatherAPI()
 	{
-		$apiKey = "4add09fa6e8b2b38cd61a35795d144c9";
-		$cityId = "2749990";
+		$apiKey = "";
+		$cityId = "";
 		$googleApiUrl = "http://api.openweathermap.org/data/2.5/weather?id=" . $cityId . "&lang=en&units=metric&APPID=" . $apiKey;
 
 		$ch = curl_init();
