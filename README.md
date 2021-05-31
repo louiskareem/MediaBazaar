@@ -1,5 +1,5 @@
 # MediaBazaar
-School project that I spearheaded in cooperation with a classmate. Project was made with the following languages: C#, PHP, Javascript and of course SQL
+School project that I build with a classmate. Project was made with the following languages: C#, PHP, Javascript and of course SQL
 
 ## What I Learned
 * How to integrate the SOLID principles
@@ -8,3 +8,4 @@ School project that I spearheaded in cooperation with a classmate. Project was m
 * Build a inventory manangement system in PHP, Javascript
 * Integrate two-factor verification
 * Integrate MVC methodology
+* Integrate a database
