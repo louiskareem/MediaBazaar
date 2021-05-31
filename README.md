@@ -1,5 +1,5 @@
 # MediaBazaar
-School project that I build with a classmate. Project was made with the following languages: C#, PHP, Javascript and of course SQL
+A school project that I build with a classmate. The project was made with the following languages: C#, PHP, Javascript, and of course SQL
 
 ## What I Learned
 * How to integrate the SOLID principles
